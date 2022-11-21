@@ -1,0 +1,14 @@
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\bin\Debug\Ejercicio_Técnico.exe.config
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\bin\Debug\Ejercicio_Técnico.exe
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\bin\Debug\Ejercicio_Técnico.pdb
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.csproj.AssemblyReference.cache
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.Properties.Resources.resources
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.csproj.GenerateResource.cache
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.exe
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.pdb
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\bin\Debug\milibreriax.dll
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\bin\Debug\MySql.Data.dll
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.csproj.CopyComplete
+C:\Users\ramon\source\repos\Ejercicio_Técnico\Ejercicio_Técnico\obj\Debug\Ejercicio_Técnico.ABCC.resources
