@@ -40,7 +40,7 @@ namespace Ejercicio_Técnico
             s.fec_baj = Convert.ToDateTime(dtfec_baj.Value = new DateTime(1900, 01, 01));
             s.descontinuo = cbdescontinuado.Checked;
 
-            if (int.Parse(txtcantidad.Text) > int.Parse(txtstock.Text))
+            if (int.Parse(txtcantidad.Text) < int.Parse(txtstock.Text))
             {
                 if (s.guardar() == true)
                 {
@@ -378,7 +378,7 @@ namespace Ejercicio_Técnico
 
         private void btnactualizar_Click(object sender, EventArgs e)
         {
-            if (int.Parse(txtcantidad.Text) >= int.Parse(txtstock.Text))
+            if (int.Parse(txtcantidad.Text) <= int.Parse(txtstock.Text))
             {
                 s.sku = txtsku.Text;
                 s.articulo = txtarticulo.Text;
